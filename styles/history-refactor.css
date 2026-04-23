@@ -4,6 +4,10 @@ body {
     font-size: 0px;
     box-sizing: border-box;
 }
-h1 {
-    color: red;
+.hero {
+    display: flex; 
+    justify-content: center; /*aligned horizontal*/
+    align-items: center; /*aligned verticle*/
+    height: 100vh;
+    background-image: url
 }
