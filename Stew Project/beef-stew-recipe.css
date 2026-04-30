@@ -1,0 +1,22 @@
+.stew-content {
+    background-color: #cccccc;
+    width: 700px;
+    padding: 10px;
+    margin: auto;
+
+}
+h1,h2,h3 {
+    color: blue;
+    font-size: 26px;
+}
+body {
+    background-color: rgb(203, 247, 223);
+}
+footer {
+    background-color: blue;
+    color: aliceblue;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    clear: both;
+    padding-left: 5px;
+}
