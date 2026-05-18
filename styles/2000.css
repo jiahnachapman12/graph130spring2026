@@ -1,0 +1,7 @@
+/*css stylesheet for media-queries.html file */
+@media screen and (min-width:1282px) and (max-width:2000px) {
+    body {
+        background-color: red;
+        color: black;
+    }
+}
