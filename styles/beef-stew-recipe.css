@@ -1,6 +1,6 @@
 .stew-content {
     background-color: #cccccc;
-    width: 700px;
+    width: 50%;
     padding: 10px;
     margin: auto;
 
@@ -20,3 +20,12 @@ footer {
     clear: both;
     padding-left: 5px;
 }
+.stew-1 {
+    style=float: left; 
+    margin-right: 5px width=150px;
+}
+
+.big-stew {
+    width: 95%;
+}
+
